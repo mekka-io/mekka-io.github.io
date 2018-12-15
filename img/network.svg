@@ -1,0 +1,94 @@
+
+<svg width="2120px" height="2272px" viewBox="0 0 2120 2272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#D5A435" stop-opacity="0.985507246" offset="0%"></stop>
+            <stop stop-color="#FDC23B" stop-opacity="0.985507246" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chart">
+            <rect id="Background" stroke="#979797" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="2119" height="2271"></rect>
+            <g id="Local-Ecosystems" transform="translate(96.000000, 1554.000000)">
+                <rect id="Rectangle" stroke-opacity="0.130434783" stroke="#222222" stroke-width="10" fill="#FFFFFF" x="-5" y="-5" width="1914" height="597" rx="15"></rect>
+                <text id="Local-Network-(Indep" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                    <tspan x="87.0097656" y="134">Local Network (Independent)</tspan>
+                </text>
+                <g id="Segment" transform="translate(1293.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="46.8393555" y="116">Events / Meetups</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(690.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="87.9892578" y="116">Accelerators / </tspan>
+                        <tspan x="126.478027" y="184">Incubators</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(87.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="52.3813477" y="116">Post-Secondary / </tspan>
+                        <tspan x="122.144531" y="184">Bootcamps</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Advisement-&amp;-Resource-Network" transform="translate(108.000000, 849.000000)">
+                <rect id="Rectangle" stroke-opacity="0.130434783" stroke="#222222" stroke-width="10" fill="#FFFFFF" x="-5" y="-5" width="1914" height="597" rx="15"></rect>
+                <text id="Advisement-&amp;-Resourc" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                    <tspan x="87.3959961" y="130">Advisement &amp; Resource Network (Mekka)</tspan>
+                </text>
+                <g id="Segment" transform="translate(1293.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="104.541992" y="116">Government </tspan>
+                        <tspan x="141.419434" y="184">Programs</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(690.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="135.364746" y="116">Corporate </tspan>
+                        <tspan x="96.0092773" y="184">Sponsorships</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(87.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="119.605469" y="116">Technology </tspan>
+                        <tspan x="94.9716797" y="184">Professionals</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Investor-Network" transform="translate(108.000000, 129.000000)">
+                <rect id="Rectangle" stroke-opacity="0.130434783" stroke="#222222" stroke-width="10" fill="#FFFFFF" x="-5" y="-5" width="1914" height="597" rx="15"></rect>
+                <text id="Investment-Network-(" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                    <tspan x="87.3608398" y="130">Investment Network (Mekka)</tspan>
+                </text>
+                <g id="Segment" transform="translate(1293.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="28.5776367" y="116">Family Investment </tspan>
+                        <tspan x="174.598145" y="184">Offices</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(690.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="68.5678711" y="116">Angel Investors</tspan>
+                    </text>
+                </g>
+                <g id="Segment" transform="translate(87.000000, 207.000000)">
+                    <rect id="Background" stroke="#979797" stroke-width="1" fill-opacity="0.289855072" fill="#D8D8D8" fill-rule="evenodd" x="0.5" y="0.5" width="523" height="287"></rect>
+                    <text id="Incubators" font-family="OpenSans-Bold, Open Sans" font-size="50" font-weight="bold" fill="#000000">
+                        <tspan x="22.7548828" y="116">Venture Capitalists</tspan>
+                    </text>
+                </g>
+            </g>
+            <path id="Line" d="M1052,1420 L1052,1612 L1052,1616 L1044,1616 L1044,1612 L1044,1420 L1026,1420 L1048,1376 L1070,1420 L1052,1420 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line" d="M1064,704 L1064,896 L1064,900 L1056,900 L1056,896 L1056,704 L1038,704 L1060,660 L1082,704 L1064,704 Z" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
