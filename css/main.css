@@ -309,6 +309,10 @@ a{
     .section_chart_image{
         margin-left: 5%;
     }
+
+    .section_title{
+        max-width: 400px;
+    }
 }
 
 @media print,
