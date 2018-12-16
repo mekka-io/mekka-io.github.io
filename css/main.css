@@ -152,7 +152,7 @@ body{
 }
 
 .section{
-    margin: 5% 5% 0 5%;
+    margin: 3% 5% 0 5%;
 }
 
 .section_title{
@@ -176,8 +176,11 @@ body{
 .approach{
     font-weight: 400;
     color: #b07c0c;
-    font-size: .85em;
+    font-size: .75em;
     display: block;
+    border-top: 2px solid #f1f1f1;
+    margin-top: 4px;
+    padding-top: 2px;
 }
 
 a{
